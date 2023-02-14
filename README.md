@@ -5,6 +5,15 @@
 - The blog website you can add new blog.
 - Every blog has its own separate page.
 
+## Tech Stack
+- HTML
+- CSS
+- Node.js
+- Express
+- EJS
+- BodyParser
+- Loadash
+
 ## How to use
 - First download the git repository.
 - Use "npm i" command to download dependencies.
